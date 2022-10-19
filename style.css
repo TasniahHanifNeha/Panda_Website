@@ -4,3 +4,20 @@
     margin: 0;
     box-sizing: border-box;
 }
+.container{margin-bottom: 100px;}
+.pinkish-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{padding:20px 40px};
+.price_color{
+    color: #000;
+}
+.buy-now-button{
+    padding: 10px 25px;
+    border: none;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF126F 100%);
+    border-radius: 8px;
+    cursor: pointer;
+    color: #fff;
+}
